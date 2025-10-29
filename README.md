@@ -23,11 +23,12 @@ All votes are stored on-chain for transparency and security.
 -Results can be viewed on-chain
 
 ## 🌟 Features
-✅ Beginner-friendly Solidity design
-✅ One-vote-per-user rule enforced
-✅ Voting open/close controlled by owner
-✅ Full transparency on blockchain
-✅ View candidate details + vote counts
+- ✅ Beginner-friendly Solidity design
+- ✅ One-vote-per-user rule enforced
+- ✅ Voting open/close controlled by owner
+- ✅ Full transparency on blockchain
+- ✅ View candidate details + vote counts
+
 
 ## 📄 Smart Contract
 
