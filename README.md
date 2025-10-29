@@ -40,6 +40,7 @@ All votes are stored on-chain for transparency and security.
 👉 [View on Blockscout](https://celo-sepolia.blockscout.com/address/0x2BE4b0F75064ebCD0F4F5342CA15F3Fe74b447A7)
 
 ## 💻 Smart Contract Code
+```bash
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
 
@@ -100,6 +101,7 @@ contract VotingApp {
         return (c.name, c.voteCount);
     }
 }
+```
 
 ## 🚀 How to Run Locally
 **1️⃣ Clone the repository**
