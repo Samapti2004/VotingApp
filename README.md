@@ -105,6 +105,7 @@ contract VotingApp {
 ```bash
 git clone https://github.com/your-username/VotingApp.git
 cd VotingApp
+```
 **2️⃣Open Remix IDE**
 -Visit Remix IDE
 -Paste your smart contract code inside a new file (VotingApp.sol)
