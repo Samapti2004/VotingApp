@@ -109,6 +109,7 @@ cd VotingApp
 **2️⃣Open Remix IDE**
 -Visit Remix IDE
 -Paste your smart contract code inside a new file (VotingApp.sol)
+
 **3️⃣Compile & Deploy**
 
 -Select Solidity Compiler → version 0.8.20
