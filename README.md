@@ -33,7 +33,7 @@ Deployed Transaction:
 🚀 How to Run Locally
 Clone the repository
 
-git clone https://github.com/your-username/XXX.git
+git clone https:https://github.com/Samapti2004/VotingApp/edit/main/README.md
 cd XXX
 Open Remix IDE
 
@@ -58,4 +58,4 @@ Remix IDE for easy smart contract testing
 Blockscout for transparent transaction viewing
 💡 Pro Tip: Start small — experiment, break things, and learn how decentralized apps work under the hood.
 
-🧠 Made with ❤️ by [Your Name / XXX]
+🧠 Made with ❤️ by Samapti2004
