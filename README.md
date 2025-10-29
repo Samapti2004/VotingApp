@@ -12,15 +12,15 @@ All votes are stored on-chain for transparency and security.
 
 ## ⚙️What It Does
 
--Owner deploys the voting contract
+- Owner deploys the voting contract
 
--Owner adds candidates
+- Owner adds candidates
 
--Anyone can vote (one vote per address)
+- Anyone can vote (one vote per address)
 
--Voting can be closed by the owner
+- Voting can be closed by the owner
 
--Results can be viewed on-chain
+- Results can be viewed on-chain
 
 ## 🌟 Features
 - ✅ Beginner-friendly Solidity design
@@ -123,10 +123,10 @@ cd VotingApp
 -Call vote() with the candidate index.
 -Use getCandidate() to view results.
 ## 🧩 Future Enhancements
--🖥️ Build a React front-end with Celo Composer or Ethers.js
--🧾 Add voter registration and candidate management
--📊 Display live voting stats on UI
--🔐 Integrate identity verification (optional)
+- 🖥️ Build a React front-end with Celo Composer or Ethers.js
+- 🧾 Add voter registration and candidate management
+- 📊 Display live voting stats on UI
+- 🔐 Integrate identity verification (optional)
 ## 🙌 Acknowledgments
 -**Celo Blockchain-** for providing eco-friendly infrastructure
 -**Remix IDE-** for easy smart contract testing
