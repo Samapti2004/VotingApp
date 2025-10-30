@@ -115,13 +115,12 @@ cd VotingApp
 
 **3️⃣Compile & Deploy**
 
--Select Solidity Compiler → version 0.8.20
--Deploy using Injected Web3 to connect your Celo wallet
+- Select Solidity Compiler → version 0.8.20
+- Deploy using Injected Web3 to connect your Celo wallet
 
 **4️⃣ Interact with the Contract**
-
--Call vote() with the candidate index.
--Use getCandidate() to view results.
+- Call vote() with the candidate index.
+- Use getCandidate() to view results.
 ## 🧩 Future Enhancements
 - 🖥️ Build a React front-end with Celo Composer or Ethers.js
 - 🧾 Add voter registration and candidate management
@@ -131,6 +130,6 @@ cd VotingApp
 -**Celo Blockchain-** for providing eco-friendly infrastructure
 -**Remix IDE-** for easy smart contract testing
 -**Blockscout-** for transparent transaction viewing
->💡 Pro Tip: Start small — experiment, break things, and learn how decentralized apps work under the hood.
+> 💡 Pro Tip: Start small — experiment, break things, and learn how decentralized apps work under the hood.
 
 🧠 Made with ❤️ by **Samapti2004**
