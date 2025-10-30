@@ -127,9 +127,9 @@ cd VotingApp
 - 📊 Display live voting stats on UI
 - 🔐 Integrate identity verification (optional)
 ## 🙌 Acknowledgments
--**Celo Blockchain-** for providing eco-friendly infrastructure
--**Remix IDE-** for easy smart contract testing
--**Blockscout-** for transparent transaction viewing
+- **Celo Blockchain-** for providing eco-friendly infrastructure
+- **Remix IDE-** for easy smart contract testing
+- **Blockscout-** for transparent transaction viewing
 > 💡 Pro Tip: Start small — experiment, break things, and learn how decentralized apps work under the hood.
 
 🧠 Made with ❤️ by **Samapti2004**
